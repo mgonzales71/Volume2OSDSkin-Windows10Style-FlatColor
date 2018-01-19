@@ -84,9 +84,9 @@
     <FontItalic>false</FontItalic>
     <HideTextOnMute>false</HideTextOnMute>
     <LayerIndex>-1</LayerIndex>
-    <CDDriveLetter Enable="true" X="248" Y="45" FontName="Segoe UI" Size="20" Color="#FF6F6F6F" Bold="false" Italic="false" Alignment="0"/>
-    <USBDriveLetter Enable="true" X="5" Y="20" FontName="Segoe UI" Size="24" Color="#FF6F6F6F" Bold="false" Italic="false" Alignment="0"/>
-    <USBFriendlyName Enable="true" X="210" Y="62" FontName="Segoe UI" Size="12" Color="#FF6F6F6F" Bold="false" Italic="false" Alignment="1"/>
+    <CDDriveLetter Enable="true" X="330" Y="42" FontName="Segoe UI" Size="24" Color="#FF6F6F6F" Bold="true" Italic="false" Alignment="1"/>
+    <USBDriveLetter Enable="true" X="10" Y="42" FontName="Segoe UI" Size="24" Color="#FF6F6F6F" Bold="true" Italic="false" Alignment="0"/>
+    <USBFriendlyName Enable="true" X="230" Y="15" FontName="Segoe UI" Size="14" Color="#FF7F7F7F" Bold="true" Italic="false" Alignment="1"/>
   </Text>
   <NotificationText>
     <Show>false</Show>
