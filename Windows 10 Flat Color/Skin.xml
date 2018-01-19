@@ -4,6 +4,7 @@
     <Author>mgonzales71</Author>
     <WebSite>http://www.github.com/mgonzales71</WebSite>
     <SkinVersion>2.0</SkinVersion>
+    <!-- Some icons courtesy of https://icons8.com/ free license. Thanks -->
   </Info>
   <OSD>
     <!--Orientation: BitMoveUp, BitMoveRight, BitStripBottom, BitStripRight, Horizontal, Vertical-->
