@@ -10,5 +10,8 @@ OSD Skin for Volume2  - Windows 10 Style - Flat Color
 ![volume2_2018-01-18_20-04-32](https://user-images.githubusercontent.com/6510026/35134969-d68f3ee6-fc8e-11e7-876f-3dd04ccee10d.png)
 ![volume2_2018-01-18_20-28-06](https://user-images.githubusercontent.com/6510026/35134970-d6bd58f8-fc8e-11e7-9ae5-73cdbbea7163.png)
 
+When Metro Colors are enabled meter and meter effects are modified
+
+![volume2_2018-01-18_20-53-05](https://user-images.githubusercontent.com/6510026/35135406-f768bb9e-fc91-11e7-9db3-2b262b1d2315.png)
 
 Some icons courtesy of https://icons8.com/ free license.  Thanks.
