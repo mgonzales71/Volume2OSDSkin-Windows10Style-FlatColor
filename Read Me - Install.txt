@@ -1,0 +1,21 @@
+Installation Read Me
+
+Extract downloaded Zip
+
+Copy the folder "Windows 10 Flat Color" into the "OSDSkins" Folder of Volume2 Installation
+
+This is usually located at C:\Program Files (x86)\Volume2\Osd Skins\
+
+The Zip file also contains a sound file you may want to use if so copy the file "sound\vol_change_flat.wav" into the "Sounds" folder of Volume2 Installation
+
+This is usually located at C:\Program Files (x86)\Volume2\Sounds\
+
+You then should be able to choose this skin in the OSD tab of Volume2 
+
+Volume2 can be downloaded from
+
+https://irzyxa.wordpress.com/downloads/
+
+Enjoy!
+
+Mario
