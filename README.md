@@ -1,4 +1,5 @@
-# Volume2.OSD.Skin_Win10FlatColor
+# Volume2OSDSkin-Windows10Style-FlatColor
+
 OSD Skin for Volume2  - Windows 10 Style - Flat Color
 
 
